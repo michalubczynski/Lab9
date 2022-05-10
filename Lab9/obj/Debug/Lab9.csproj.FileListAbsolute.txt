@@ -1,0 +1,16 @@
+C:\Users\micha\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe.config
+C:\Users\micha\source\repos\Lab9\Lab9\bin\Debug\Lab9.exe
+C:\Users\micha\source\repos\Lab9\Lab9\bin\Debug\Lab9.pdb
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\MainWindow.g.cs
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\App.g.cs
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9_MarkupCompile.cache
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9_MarkupCompile.lref
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\MainWindow.baml
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.g.resources
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.Properties.Resources.resources
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.GenerateResource.cache
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.exe
+C:\Users\micha\source\repos\Lab9\Lab9\obj\Debug\Lab9.pdb
